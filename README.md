@@ -2,7 +2,7 @@
 
 A comparative AI-generated text detection system built on two independent classification pipelines — a from-scratch **Decision Tree** using stylometric features, and a **BERT-MLP** pipeline using deep semantic embeddings. Both models were trained on the MAGE benchmark (170,000 samples across 7 writing domains and ~29 generative models) and are served through a single unified Streamlit demo.
 
-🔗 **Live Demo:** _[coming soon]_
+🔗 **Live Demo:** [Click here to try it](https://ai-text-detector-d4dsw5r8fewvevbwuuapphf.streamlit.app/)
 
 ---
 
