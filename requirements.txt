@@ -1,0 +1,9 @@
+streamlit>=1.36
+joblib
+numpy
+pandas
+matplotlib
+nltk
+scikit-learn
+torch
+transformers
